@@ -1,0 +1,17 @@
+.pio/
+.vscode/
+
+# Compile targets
+*.o
+*.d
+*.elf
+*.bin
+*.hex
+
+# Local configuration
+include/config_local.h
+.env
+
+# OS generated files
+.DS_Store
+Thumbs.db
