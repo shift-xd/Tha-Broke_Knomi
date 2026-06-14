@@ -144,3 +144,6 @@ There is a firmware.bin file in the firmware/software folder you can copy / down
 <img width="1010" height="512" alt="Screenshot From 2026-06-14 17-48-26" src="https://github.com/user-attachments/assets/42e9cfd1-1604-4065-b22f-d21d06ec9d01" />
 
 </div>
+
+
+### Onshape Link if yall need it >> https://cad.onshape.com/documents/bf45e4ea9d090bb781be77ec/w/0d1ab55a834771fa1513ce06/e/f4d49a01aef5845153b082dc
