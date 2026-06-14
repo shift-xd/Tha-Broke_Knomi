@@ -146,4 +146,4 @@ There is a firmware.bin file in the firmware/software folder you can copy / down
 </div>
 
 
-### Onshape Link if yall need it >> https://cad.onshape.com/documents/bf45e4ea9d090bb781be77ec/w/0d1ab55a834771fa1513ce06/e/f4d49a01aef5845153b082dc
+### Onshape Link if yall need it >> https://cad.onshape.com/documents/bf45e4ea9d090bb781be77ec/w/0d1ab55a834771fa1513ce06/e/f4d49a01aef5845153b082dc?renderMode=0&uiState=6a2ef0a6a6140eb0eaf37c14
