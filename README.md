@@ -1,6 +1,6 @@
 <div align="center">
 
-<img src="https://readme-typing-svg.demolab.com?font=Fredoka&weight=700&size=64&duration=4000&pause=4000&color=FFFFFF&center=true&vCenter=true&width=1200&height=120&lines=THE+BROKE+KNOMI" />
+<img width="545" height="107" alt="image" src="https://github.com/user-attachments/assets/9a3e5545-1b3e-4178-a03b-daf91c634781" />
 
 </div>
 
@@ -18,7 +18,7 @@ this is broke knomi , yea broke knomi becasuse it is for people who cannot affor
 
 <div align="center">
 
-<img src="https://readme-typing-svg.demolab.com?font=Fredoka&weight=700&size=34&duration=4000&pause=4000&color=FFFFFF&center=true&vCenter=true&width=700&height=70&lines=SOFTWARES" />
+# <span style="font-size: 52px; font-weight: 900; font-family: 'Abril Fatface'; color: #FFFFFF; letter-spacing: 4px; text-shadow: 0 4px 8px rgba(0,0,0,0.4);">SOFTWARES</span>
 
 </div>
 
@@ -63,7 +63,7 @@ this is broke knomi , yea broke knomi becasuse it is for people who cannot affor
 
 <div align="center">
 
-<img src="https://readme-typing-svg.demolab.com?font=Fredoka&weight=700&size=34&duration=4000&pause=4000&color=FFFFFF&center=true&vCenter=true&width=700&height=70&lines=HOW+TO+MAKE" />
+# <span style="font-size: 52px; font-weight: 900; font-family: 'Abril Fatface'; color: #FFFFFF; letter-spacing: 4px; text-shadow: 0 4px 8px rgba(0,0,0,0.4);">HOW TO MAKE</span>
 
 </div>
 
@@ -71,7 +71,7 @@ This is a Pcb project you will find the pcb under pcb section in the repo or if 
 
 <div align="center">
 
-<img src="https://readme-typing-svg.demolab.com?font=Fredoka&weight=700&size=34&duration=4000&pause=4000&color=FFFFFF&center=true&vCenter=true&width=500&height=70&lines=THE+PCB" />
+# <span style="font-size: 52px; font-weight: 900; font-family: 'Abril Fatface'; color: #FFFFFF; letter-spacing: 4px; text-shadow: 0 4px 8px rgba(0,0,0,0.4);">THE PCB</span>
 
 </div>
 
@@ -91,7 +91,7 @@ This is a Pcb project you will find the pcb under pcb section in the repo or if 
 
 <div align="center">
 
-<img src="https://readme-typing-svg.demolab.com?font=Fredoka&weight=700&size=34&duration=4000&pause=4000&color=FFFFFF&center=true&vCenter=true&width=500&height=70&lines=FIRMWARE" />
+# <span style="font-size: 52px; font-weight: 900; font-family: 'Abril Fatface'; color: #FFFFFF; letter-spacing: 4px; text-shadow: 0 4px 8px rgba(0,0,0,0.4);">FIRMWARE</span>
 
 </div>
 
@@ -105,13 +105,13 @@ There is a firmware.bin file in the firmware/software folder you can copy / down
 
 <div align="center">
 
-<img src="https://readme-typing-svg.demolab.com?font=Fredoka&weight=700&size=34&duration=4000&pause=4000&color=FFFFFF&center=true&vCenter=true&width=900&height=70&lines=PCB+%26%26+SCHEMATICS" />
+# <span style="font-size: 52px; font-weight: 900; font-family: 'Abril Fatface'; color: #FFFFFF; letter-spacing: 4px; text-shadow: 0 4px 8px rgba(0,0,0,0.4);">PCB && SCHEMATICS</span>
 
 </div>
 
 <div align="center">
 
-<img src="https://readme-typing-svg.demolab.com?font=Fredoka&weight=700&size=30&duration=4000&pause=4000&color=FFFFFF&center=true&vCenter=true&width=700&height=70&lines=THE+SCHEMATICS" />
+# <span style="font-size: 42px; font-weight: 900; font-family: 'Abril Fatface'; color: #FFFFFF; letter-spacing: 3px; text-shadow: 0 4px 8px rgba(0,0,0,0.4);">THE SCHEMATICS</span>
 
 </div>
 
@@ -123,7 +123,7 @@ There is a firmware.bin file in the firmware/software folder you can copy / down
 
 <div align="center">
 
-<img src="https://readme-typing-svg.demolab.com?font=Fredoka&weight=700&size=34&duration=4000&pause=4000&color=FFFFFF&center=true&vCenter=true&width=500&height=70&lines=CASING" />
+# <span style="font-size: 52px; font-weight: 900; font-family: 'Abril Fatface'; color: #FFFFFF; letter-spacing: 4px; text-shadow: 0 4px 8px rgba(0,0,0,0.4);">CASING</span>
 
 </div>
 
@@ -154,5 +154,3 @@ There is a firmware.bin file in the firmware/software folder you can copy / down
  https://oshwlab.com/lastsurvivor857/project_zphppcol
 
  ### Also added the .epro in the production folder
-
- 
