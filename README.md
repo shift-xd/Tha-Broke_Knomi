@@ -148,3 +148,11 @@ There is a firmware.bin file in the firmware/software folder you can copy / down
 
 ### Onshape Link if yall need it (drag and drop this link to browser other wise error shows as forbidded 403 idk why ask chatgpt lmao )
 >> https://cad.onshape.com/documents/bf45e4ea9d090bb781be77ec/w/0d1ab55a834771fa1513ce06/e/f4d49a01aef5845153b082dc?renderMode=0&uiState=6a2ef0a6a6140eb0eaf37c14
+
+
+### OSHW LAB's Link (This is a requisitement ) idk what that word means lol 
+ https://oshwlab.com/lastsurvivor857/project_zphppcol
+
+ ### Also added the .epro in the production folder
+
+ 
