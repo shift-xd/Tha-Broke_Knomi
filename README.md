@@ -170,6 +170,6 @@ yea so this is the BOM or bill of materials, basically all the stuff you need to
 | 3 | Esp 32 super mini | 1 | Check Amazon | [Amazon](https://www.amazon.in/DELLZO-ESP32-C3-Development-Bluetooth-Pre-Loaded/dp/B0G9RGBKDX) |
 | 4 | Ams Power cable | 2 | ₹409 each | [Robu](https://robu.in/product/bambu-lab-bambu-bus-4pin-cable-amsp1sp1px1x1cx1e/) |
 
-prices can change and stuff so check the links before buying, also the 0.91 and 0.96 oled are options so dont buy both unless u wanna for some reason lol. The 0.91 is ₹149 on Robocraze right now and the 0.96 is around ₹209, so pick whichever one fits ur build better.
+prices can change and stuff so check the links before buying, also the 0.91 and 0.96 oled are options buy both unless u dont wanna for some reason lol. The 0.91 is ₹149 on Robocraze right now and the 0.96 is around ₹209, so pick whichever site provides the cheaper and that fits ur build better.
 
  ### BOM.csv is also there if u want the raw list and stuff
