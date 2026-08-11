@@ -154,3 +154,20 @@ There is a firmware.bin file in the firmware/software folder you can copy / down
  https://oshwlab.com/lastsurvivor857/project_zphppcol
 
  ### Also added the .epro in the production folder
+
+<div align="center">
+
+# <span style="font-size: 52px; font-weight: 900; font-family: 'Abril Fatface'; color: #FFFFFF; letter-spacing: 4px; text-shadow: 0 4px 8px rgba(0,0,0,0.4);">BOM (BILL OF MATERIALS)</span>
+
+</div>
+
+The BOM (Bill of Materials) contains the main components required to build Broke Knomi. The component links and quantities below are simplified from the repository's [BOM.csv](BOM.csv).
+
+| # | Component | Quantity | Purchase / Source |
+|---|---|---:|---|
+| 1 | 0.91 Inch OLED Display | 1 | Robocraze — 0.91 inch Blue OLED Display Module with I2C/IIC Serial Interface |
+| 2 | 0.96 Inch OLED Display | 1 | [Amazon India](https://www.amazon.in/Robocraze-Semiconductor-Accessory-Display-Resolution/dp/B07Q7VZ716) |
+| 3 | ESP32-C3 Super Mini | 1 | [Amazon India](https://www.amazon.in/DELLZO-ESP32-C3-Development-Bluetooth-Pre-Loaded/dp/B0G9RGBKDX) |
+| 4 | AMS Power Cable | 2 | [Robu.in](https://robu.in/product/bambu-lab-bambu-bus-4pin-cable-amsp1sp1px1x1cx1e/) |
+
+> **Note:** The BOM currently lists both a 0.91-inch and a 0.96-inch OLED option. Check the schematic before ordering to make sure you choose the display that matches your build.
