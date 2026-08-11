@@ -25,23 +25,38 @@ this is broke knomi , yea broke knomi becasuse it is for people who cannot affor
 <div style="display:flex; flex-wrap:wrap; gap:18px; align-items:center;">
 
   <a href="https://easyeda.com/" target="_blank" style="text-decoration:none;">
-    <img src="https://img.shields.io/badge/EasyEDA-2563EB?style=for-the-badge&logo=easyeda&logoColor=white&labelColor=1E293B" alt="EasyEDA" style="border-radius:999px; box-shadow:0 4px 12px rgba(0,0,0,0.18);">
+    <img 
+      src="https://img.shields.io/badge/EasyEDA-2563EB?style=for-the-badge&logo=easyeda&logoColor=white&labelColor=1E293B" 
+      alt="EasyEDA"
+      style="border-radius:999px; box-shadow:0 4px 12px rgba(0,0,0,0.18);">
   </a>
 
   <a href="https://solvespace.com/" target="_blank" style="text-decoration:none;">
-    <img src="https://img.shields.io/badge/SolveSpace-475569?style=for-the-badge&logo=autodesk&logoColor=white&labelColor=0F172A" alt="SolveSpace" style="border-radius:999px; box-shadow:0 4px 12px rgba(0,0,0,0.18);">
+    <img 
+      src="https://img.shields.io/badge/SolveSpace-475569?style=for-the-badge&logo=autodesk&logoColor=white&labelColor=0F172A" 
+      alt="SolveSpace"
+      style="border-radius:999px; box-shadow:0 4px 12px rgba(0,0,0,0.18);">
   </a>
 
   <a href="https://www.freecad.org/" target="_blank" style="text-decoration:none;">
-    <img src="https://img.shields.io/badge/FreeCAD-0F766E?style=for-the-badge&logo=freecad&logoColor=white&labelColor=111827" alt="FreeCAD" style="border-radius:999px; box-shadow:0 4px 12px rgba(0,0,0,0.18);">
+    <img 
+      src="https://img.shields.io/badge/FreeCAD-0F766E?style=for-the-badge&logo=freecad&logoColor=white&labelColor=111827" 
+      alt="FreeCAD"
+      style="border-radius:999px; box-shadow:0 4px 12px rgba(0,0,0,0.18);">
   </a>
 
   <a href="https://brave.com/" target="_blank" style="text-decoration:none;">
-    <img src="https://img.shields.io/badge/Brave-EF4444?style=for-the-badge&logo=brave&logoColor=white&labelColor=1F2937" alt="Brave" style="border-radius:999px; box-shadow:0 4px 12px rgba(0,0,0,0.18);">
+    <img 
+      src="https://img.shields.io/badge/Brave-EF4444?style=for-the-badge&logo=brave&logoColor=white&labelColor=1F2937" 
+      alt="Brave"
+      style="border-radius:999px; box-shadow:0 4px 12px rgba(0,0,0,0.18);">
   </a>
 
   <a href="https://grabcad.com/" target="_blank" style="text-decoration:none;">
-    <img src="https://img.shields.io/badge/GrabCAD-14B8A6?style=for-the-badge&logo=grabcad&logoColor=white&labelColor=0B1120" alt="GrabCAD" style="border-radius:999px; box-shadow:0 4px 12px rgba(0,0,0,0.18);">
+    <img 
+      src="https://img.shields.io/badge/GrabCAD-14B8A6?style=for-the-badge&logo=grabcad&logoColor=white&labelColor=0B1120" 
+      alt="GrabCAD"
+      style="border-radius:999px; box-shadow:0 4px 12px rgba(0,0,0,0.18);">
   </a>
 
 </div>
@@ -142,23 +157,19 @@ There is a firmware.bin file in the firmware/software folder you can copy / down
 
 <div align="center">
 
-# <span style="font-size: 52px; font-weight: 900; font-family: 'Abril Fatface'; color: #FFFFFF; letter-spacing: 4px; text-shadow: 0 4px 8px rgba(0,0,0,0.4);">BOM (BILL OF MATERIALS)</span>
+# <span style="font-size: 52px; font-weight: 900; font-family: 'Abril Fatface'; color: #FFFFFF; letter-spacing: 4px; text-shadow: 0 4px 8px rgba(0,0,0,0.4);">BOM ( BILL OF MATERIALS )</span>
 
 </div>
 
-The BOM (Bill of Materials) contains the main components required to build Broke Knomi. Prices are approximate and can change depending on seller, availability, shipping, and sales. The prices below are based on currently visible Indian listings where available.
+yea so this is the BOM or bill of materials idk why they call it that lmao, basically all the stuff you need to make this thing and the prices too so you can know how much this broke knomi is gonna cost u hehe
 
-| # | Component | Quantity | Approx. Unit Price | Approx. Total | Purchase / Source |
-|---|---|---:|---:|---:|---|
-| 1 | 0.91 Inch OLED Display | 1 | ₹149 | ₹149 | [Robocraze](https://robocraze.com/collections/oled) |
-| 2 | 0.96 Inch OLED Display | 1 | ₹162 | ₹162 | [Robocraze](https://robocraze.com/collections/oled) |
-| 3 | ESP32-C3 Super Mini | 1 | Check current listing | — | [Amazon India](https://www.amazon.in/DELLZO-ESP32-C3-Development-Bluetooth-Pre-Loaded/dp/B0G9RGBKDX) |
-| 4 | AMS Power Cable | 2 | Check current listing | — | [Robu.in](https://robu.in/product/bambu-lab-bambu-bus-4pin-cable-amsp1sp1px1x1cx1e/) |
+| No | thing | Qty | Price | Link |
+|---|---|---:|---:|---|
+| 1 | 0.91 Inch Oled | 1 | ₹___ | Robocraze |
+| 2 | 0.96 inch Oled | 1 | ₹___ | [Amazon](https://www.amazon.in/Robocraze-Semiconductor-Accessory-Display-Resolution/dp/B07Q7VZ716) |
+| 3 | Esp 32 super mini | 1 | ₹___ | [Amazon](https://www.amazon.in/DELLZO-ESP32-C3-Development-Bluetooth-Pre-Loaded/dp/B0G9RGBKDX) |
+| 4 | Ams Power cable | 2 | ₹___ each | [Robu](https://robu.in/product/bambu-lab-bambu-bus-4pin-cable-amsp1sp1px1x1cx1e/) |
 
-### Estimated BOM Cost
+prices can change and stuff so check the links before buying, also the 0.91 and 0.96 oled are options dont buy both unless u wanna for some reason lol
 
-- **Using the 0.91-inch OLED:** ₹149 + ESP32-C3 + 2× AMS cables
-- **Using the 0.96-inch OLED:** ₹162 + ESP32-C3 + 2× AMS cables
-- Prices exclude PCB fabrication, casing, shipping, and other build-specific costs.
-
-> **Note:** The BOM currently lists both a 0.91-inch and a 0.96-inch OLED option. Check the schematic before ordering to make sure you choose the display that matches your build.
+ ### BOM.csv is also there if u want the raw list and stuff
