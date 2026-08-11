@@ -161,15 +161,15 @@ There is a firmware.bin file in the firmware/software folder you can copy / down
 
 </div>
 
-yea so this is the BOM or bill of materials idk why they call it that lmao, basically all the stuff you need to make this thing and the prices too so you can know how much this broke knomi is gonna cost u hehe
+yea so this is the BOM or bill of materials, basically all the stuff you need to make this thing and how much it costs. I added the prices from the links so u can get a rough idea of the total price before buying everything hehe
 
 | No | thing | Qty | Price | Link |
 |---|---|---:|---:|---|
-| 1 | 0.91 Inch Oled | 1 | ₹___ | Robocraze |
-| 2 | 0.96 inch Oled | 1 | ₹___ | [Amazon](https://www.amazon.in/Robocraze-Semiconductor-Accessory-Display-Resolution/dp/B07Q7VZ716) |
-| 3 | Esp 32 super mini | 1 | ₹___ | [Amazon](https://www.amazon.in/DELLZO-ESP32-C3-Development-Bluetooth-Pre-Loaded/dp/B0G9RGBKDX) |
-| 4 | Ams Power cable | 2 | ₹___ each | [Robu](https://robu.in/product/bambu-lab-bambu-bus-4pin-cable-amsp1sp1px1x1cx1e/) |
+| 1 | 0.91 Inch Oled | 1 | ₹149 | [Robocraze](https://robocraze.com/products/0-91-inch-blue-oled-display-module) |
+| 2 | 0.96 inch Oled | 1 | ₹209 | [Amazon](https://www.amazon.in/Robocraze-Semiconductor-Accessory-Display-Resolution/dp/B07Q7VZ716) |
+| 3 | Esp 32 super mini | 1 | Check Amazon | [Amazon](https://www.amazon.in/DELLZO-ESP32-C3-Development-Bluetooth-Pre-Loaded/dp/B0G9RGBKDX) |
+| 4 | Ams Power cable | 2 | ₹409 each | [Robu](https://robu.in/product/bambu-lab-bambu-bus-4pin-cable-amsp1sp1px1x1cx1e/) |
 
-prices can change and stuff so check the links before buying, also the 0.91 and 0.96 oled are options dont buy both unless u wanna for some reason lol
+prices can change and stuff so check the links before buying, also the 0.91 and 0.96 oled are options so dont buy both unless u wanna for some reason lol. The 0.91 is ₹149 on Robocraze right now and the 0.96 is around ₹209, so pick whichever one fits ur build better.
 
  ### BOM.csv is also there if u want the raw list and stuff
